@@ -39,7 +39,7 @@ I'm a **Full Stack Developer** deeply passionate about Agentic AI and the future
 
 ## 🤝 Let's Connect
 
-- 💬 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/jorgelmh/)) (add your link!)
+- 💬 [LinkedIn](https://www.linkedin.com/in/jorgelmh/)
 
 ---
 
